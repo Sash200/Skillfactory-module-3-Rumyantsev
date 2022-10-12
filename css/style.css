@@ -40,16 +40,16 @@
 }
 .header { 
 	margin: 0 auto;
-	margin-top: 20px;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: stretch;
 	justify-content: center;
 	width: 100%;
 	max-width: 1249px;
-	margin: 0 auto;
+	margin-top: 30px;
 	min-height: 89px;
 	background-color: #000000;
+	
 }
 .menu { 
 	display: flex;
@@ -72,7 +72,7 @@
 .menu_scrool { 
 	display: flex;
 	align-items: center;
-	padding: 0 30px;
+	padding: 30px 30px;
 	color: #e0e0e0;
 	font-size: 14px;
 	font-weight: bold;
