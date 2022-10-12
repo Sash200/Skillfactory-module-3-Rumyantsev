@@ -40,6 +40,7 @@
 }
 .header { 
 	margin: 0 auto;
+	margin-top: 20px;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: stretch;
@@ -49,7 +50,6 @@
 	margin: 0 auto;
 	min-height: 89px;
 	background-color: #000000;
-	margin-top: 1.5%;
 }
 .menu { 
 	display: flex;
