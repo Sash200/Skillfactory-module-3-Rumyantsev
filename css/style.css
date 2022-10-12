@@ -31,8 +31,6 @@
 	align-items: flex-start;
 	max-width: 1249px;
 	margin: 0 auto;
-	padding-left: 1vw;
-	padding-right: 1vw;
 }
 .site-menu1 { 
 	padding-top: 29px;
@@ -115,7 +113,6 @@
 	opacity: 0.7; 
 }
 .link { 
-	box-sizing: border-box;
 	font-family: 'Open Sans';
 	display: inline-block;
 	padding: 17px 0;
@@ -131,7 +128,6 @@
 	background-color: #ff2d2d;
 }
 .footer1 {
-	box-sizing: border-box;
 	padding: 19px 0 0;
 	color: #e0e0e0;
 	min-height: 110px;
